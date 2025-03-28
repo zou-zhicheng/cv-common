@@ -1,0 +1,106 @@
+site_name: 邹志成的通用简历
+site_url: https://zou-zhicheng.github.io/cv-common/
+# repo_url: https://github.com/zou-zhicheng/cv-common
+site_description: 邹志成的通用简历站点, 使用 Mkdocs 创建
+site_author: 邹志成
+nav:
+  - 主页: index.md
+  - 工作经历: experience.md
+  - 项目经验: projects.md
+  - 职业技能: skills.md
+  - 证书奖励: certificates.md
+  - 兴趣爱好: interests.md
+  - 简历下载: download.md
+theme:
+  name: mkdocs
+  features:
+    - navigation.tracking
+    - navigation.footer
+    - navigation.instant
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - toc.integrate
+    - content.tabs.link
+  favicon: images/favicon.png
+  icon:
+    logo: material/seed
+  language: zh
+  font:
+    text: Google Sans
+  name: material
+  palette:
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: blue
+      accent: blue
+      toggle:
+        icon: material/lightbulb
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: blue
+      accent: blue
+      toggle:
+        icon: material/lightbulb-outline
+        name: Switch to light mode
+  scheme: default
+  primary: cyan
+  accent: cyan
+
+extra:
+  generator: false
+
+  social:
+    # - icon: fontawesome/brands/instagram
+    #   link: https://www.instagram.com/classicaldobby
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/zouzhicheng
+    - icon: fontawesome/brands/github
+      link: https://github.com/zou-zhicheng
+    # - icon: fontawesome/brands/medium
+    #   link: https://medium.com/@sachintiwari2
+    - icon: fontawesome/solid/paper-plane
+      link: mailto:<zouzhicheng@foxmail.com>
+
+copyright: Copyright &copy; 2025 &nbsp;邹志成
+
+markdown_extensions:
+  - tables
+  - abbr
+  - admonition
+  - pymdownx.details
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+  - attr_list
+  - md_in_html
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.emoji
+  - def_list
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - toc:
+      baselevel: 3
+
+plugins:
+  - search
+  - tags
+#   - social:
+#       cards_color:
+#         fill: "#0FF1CE"
+#         text: "#FFFFFF"

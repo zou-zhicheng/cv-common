@@ -1,20 +1,36 @@
----
+<!-- ---
 hide:
   - navigation
   - toc
+--- -->
+
+# Azure
+## AZ104: Azure Administrator Associate 
+![AZ104](./images/certification_az104.jpg){ width=800 }
+
+## AZ204: Azure Developer Associate
+![AZ204](./images/certification_az204.jpg){ width=800 }
+
+## AZ305: Azure Solutions Architect Expert 
+![AZ305](./images/certification_az305.jpg){ width=800 } 
+
+## AZ400: DevOps Engineer Expert
+![AZ400](./images/certification_az400.jpg){ width=800 }
+
 ---
 
-# REWARDS & RECOGNITIONS
-
-## Optum Rewards
-
-- Optum Superhero Nominee for holistic year wise performance
-
-## Certifications
+# 阿里云
+## ACP - Cloud Container
+![acp](./images/aliyun-acp-cloud container.png){ width=800 }
 
 ---
 
-[![Azure-900 certified](./images/AZ900Badge.png){ width=200 }](https://www.credly.com/badges/47fce8d4-e008-46a9-8405-e0db93b691b0)
+# SONY
+## 2022: 2021财年团队协作奖
+![team_collaboration](./images/team_collaboration.jpg){ width=800 }
+
+## 2024: 2023财年最佳个人贡献奖
+![best_contributor](./images/best_contributor.jpg){ width=800 }
 
 ---
 

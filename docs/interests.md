@@ -4,16 +4,16 @@ hide:
   - toc
 ---
 
-# INTERESTS & HOBBIES
+<!-- # 兴趣爱好 -->
 
 ---
 
-- Highway Biking (_I never got beyond 100 though :|_)
-- Cooking something spicy (_mix all the spices in the kitchen and voila!_)
-- Writing blogs (_[find some here](https://medium.com/@sachintiwari2)_)
-- Listening music (_the more I don't understand language of song, the better it is!_)
-- Binge Watching series (_FRIENDS, HIMYM, GOT, LOTR... you name it, I have watched it_)
-- Listening & telling stories (_Be chill! I don't spill the secrets_)
+- 慢跑
+- 滑雪
+- 会而不精的各种运动
+- 行万里路
+- 做饭
+- 品酒(威士忌, 白酒)
 
 ---
 

@@ -44,7 +44,7 @@ hide:
 - [职业技能](./skills.md)
 - [证书奖励](./certificates.md)
 - [兴趣爱好](./interests.md)
-- [简历下载](./download.md)
+<!-- - [简历下载](./download.md) -->
 
 ---
 

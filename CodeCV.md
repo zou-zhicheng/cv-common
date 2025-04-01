@@ -65,8 +65,11 @@ icon:jilindaxue **吉林大学** `985` `211` `双一流`
 **Cloud Developer**
 
 ::: end
-- 开发基于OpenStack的混合云产品 - SCO(Smart Cloud Orchestration).
-- [LinuxONE](https://www.ibm.com/cn-zh/linuxone) - 在SystemZ上构建基于Linux和OpenStack的软件生态平台.
+- SCO(Smart Cloud Orchestration)是IBM全球团队研发的基于OpenStack的混合云, 主要负责:   
+  - Installation, 使用Ansible, Chef, Bash等工具将SCO中的各个模块整合成产品包, 并进行相关的验证.   
+  - Integration, 集成OpenStack源代码, 二次开发代码, IBM内部的软件如ZVM, DB2, WebSphere等, 外部软件如Vmware.   
+  - 基础组件如 Dashboard, Nova的边缘性开发工作.
+- [LinuxONE](https://www.ibm.com/cn-zh/linuxone) - 带领团队在ystemZ上构建基于Linux和OpenStack的软件生态平台.
 
 ---
 
@@ -142,7 +145,7 @@ icon:jilindaxue **吉林大学** `985` `211` `双一流`
 
 ::: end
 - **项目简介：** [AITRIOS](https://www.aitrios.sony-semicon.com/) 是 [索尼半导体](https://www.sony-semicon.com/index.html) 构建的新一代革命性产品, 利用 Edge Vision AI, IoT, Cloud 等技术在构建一套以索尼摄像头为核心的革命性的生态系统.
-- **主要职责：** 作为索尼半导体在中国唯一的Cloud Staff, 主要从事了如下工作:
+- **主要职责：** 作为索尼半导体在中国唯一的Staff Cloud Engineer, 主要从事了如下工作:
   - **系统集成**: 将 [AITRIOS](https://www.aitrios.sony-semicon.com/) 解决方案从日本引入到中国, 包括:   
     - 将服务器端解决方案从 Azure全球 迁移 Azure中国(世纪互联), 解决其中的技术, 备案, 合规, 安全, 服务缺失等各项问题.    
     - 与硬件团队和嵌入式团队合作, 将摄像头, 主板(树莓派, 定制版), ESP32, 嵌入式软件(FreeRTOS, Nuttx)等集成在一起, 逐步调试, 接入到 Azure中国(世纪互联).
@@ -362,7 +365,7 @@ SCO(Smart Cloud Orchestration)
 
 - **背景：** ATOS Smart Grid Suit (ASGS)目标是为法国电力公司(ERDF) Linky项目建立一套坚强，灵活，自愈，易扩展的新一代智能电网系统，项目达到3500万台智能电表，70万台集中器的规模，为欧洲第一的智能电网系统. 系统基于SOA理念, 采用经典的JavaEE架构， 向外部系统提供核心的Service Bus.
 - **职责：**
-  - 在法国Grenoble, 与法国同事一起, 研发核心模块.
+  - 常驻法国Grenoble, 与法国同事一起, 研发核心模块.
   - 系统集成, 负责从电表, 系统, 服务器的集成和验证.
   - 与中兴成立了合资公司, 合建南方电网(深圳)项目, 共3期POC, 负责一些本地化的开发工作.
 - **技术栈：** 
@@ -418,14 +421,14 @@ SCO(Smart Cloud Orchestration)
 **2006**
 
 :::
-**赤峰/包头 数据分析项目**
+**赤峰/包头 经营分析系统**
 
 :::
 **开发, 项目负责人**
 
 ::: end
 
-- **背景：** 基于 Hyperion 的商业智能解决方案, 在内蒙古赤峰和包头网通(现中国联通)承建了数据分析项目, 通过对各种源数据进行分析, 创建ETL脚本清理整合数据, 创建经营分析报表, 为企业经营决策提供支撑.  
+- **背景：** 基于 Hyperion 的商业智能解决方案, 在内蒙古赤峰和包头网通(现中国联通)承建了经营分析系统, 通过对各种源数据进行分析, 创建ETL脚本清理整合数据, 创建经营分析报表, 为企业经营决策提供支撑.  
 - **职责：**
   - 在赤峰项目的时候是核心主力, 包头项目的时候已升任项目负责人.
 - **技术栈：** 
@@ -446,9 +449,9 @@ SCO(Smart Cloud Orchestration)
 
 ::: end
 
-- **背景：** 做为项目经理, 在北京总部组件团队, 同时在辽宁分支机构招聘人员, 利用公司现有软件, 在客户现场做定制化开发, 数据迁移, 交付与集成.    
+- **背景：** 辽宁铁通BOSS系统是大唐软件获得的第一个铁通省级项目, 为辽宁铁通的BOSS业务提供支撑. 做为项目经理, 在北京总部组件团队, 同时在辽宁分支机构招聘人员, 利用公司现有软件, 在客户现场做定制化开发, 数据迁移, 交付与集成.    
 - **职责：**
-  - 开发
+  - 本地开发
   - 项目经理
 - **技术栈：** 
   - Java, Struts, J2EE, Tomcat, Weblogic

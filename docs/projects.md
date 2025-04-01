@@ -9,7 +9,7 @@ hide:
 [AITRIOS](https://www.aitrios.sony-semicon.com/) 是 [索尼半导体](https://www.sony-semicon.com/index.html) 创新解决方案, 利用 Edge Vision AI, IoT, Cloud 等技术在构建一套以索尼摄像头为核心的革命性的生态系统.
 
 ### 主要工作
-作为索尼半导体在中国唯一的Cloud Staff, 主要从事了如下工作:
+作为索尼半导体在中国唯一的Staff Cloud Engineer, 主要从事了如下工作:
 #### 系统集成
 将 [AITRIOS](https://www.aitrios.sony-semicon.com/) 解决方案从日本引入到中国, 包括 
 - 将服务器端解决方案从 Azure全球 迁移 Azure中国(世纪互联), 解决其中的技术, 备案, 合规, 安全, 服务缺失等各项问题.
@@ -50,6 +50,7 @@ hide:
 # 宜信
 2016年加入宜信之初, 主要任务是以OpenStack为基础, 与合作伙伴一起共建金融云平台.   
 2017年公司组织结构调整, 放弃金融云平台, 转向传统运维. 帮助总公司对各子公司进行基础架构资源整合, 结合自己对于运维,ITSM,ITIL的理解, 挖掘公司痛点, 发挥开发特长, 架构, 开发和维护了一系列运维工具. 帮助公司快速的完成了基础架构的融合和稳定运行.   
+
 ## CMDB系统(Elephant)  
 2017年左右的宜信是一家在基础架构管理上很原始的公司, 主要依赖人和Excel表格传递信息, 信息缺失, 信息离散, 信息不一致等问题非常严重.   
 与IDC基础运维人员合作, 结合自己对ITSM, ITIL的相关理解, 参考行业相关实现, 并与采购部门, 财务部门合作, 从0开发了一套CMDB系统.    
@@ -118,7 +119,7 @@ SCO是IBM以OpenStack为基础，整合IBM内部资源进行对计算，存储�
 工作内容:
 - Installation, 使用Ansible, Chef, Bash等工具将SCO中的各个模块整合成产品包, 并进行相关的验证.
 - Integration, 集成OpenStack源代码, 二次开发代码, IBM内部的软件如ZVM, DB2, WebSphere等, 外部软件如Vmware.
-- 其他一些组件如 Dashboard, Nova的边缘性开发工作.
+- 基础组件如 Dashboard, Nova的边缘性开发工作.
 ### 技术栈
 - Pyhton, Django, Ansible, Chef, Shell
 
@@ -137,7 +138,7 @@ SCO中国团队解散之后, 加入 SystemZ LinuxONE 团队, [LinuxONE](https://
 ## 智能电网系统
 ATOS Smart Grid Suit (ASGS)目标是为法国电力公司(ERDF) Linky项目建立一套坚强，灵活，自愈，易扩展的新一代智能电网系统，项目达到3500万台智能电表，70万台集中器的规模，为欧洲第一的智能电网系统. 系统基于SOA理念, 采用经典的JavaEE架构， 向外部系统提供核心的Service Bus.
 工作职责如下:
-- 在法国Grenoble, 与法国同事一起, 研发核心模块.
+- 常驻法国Grenoble, 与法国同事一起, 研发核心模块.
 - 系统集成, 负责从电表, 系统, 服务器的集成和验证.
 - 与中兴成立了合资公司, 合建南方电网(深圳)项目, 共3期POC, 负责一些本地化的开发和集成工作.
 
@@ -163,8 +164,8 @@ Comverse(现[Amdocs](https://www.amdocs.com/))作为全球知名的电信支撑�
 - Java, J2EE
 - Weblogic
 
-## 赤峰/包头 数据分析项目
-基于 Hyperion 的商业智能解决方案, 在内蒙古赤峰和包头网通(现中国联通)承建了数据分析项目, 通过对各种源数据进行分析, 创建ETL脚本清理整合数据, 创建经营分析报表, 为企业经营决策提供支撑.  
+## 赤峰/包头 经营分析系统
+基于 Hyperion 的商业智能解决方案, 在内蒙古赤峰和包头网通(现中国联通)承建了经营分析系统, 通过对各种源数据进行分析, 创建ETL脚本清理整合数据, 创建经营分析报表, 为企业经营决策提供支撑.  
 在赤峰项目的时候是核心主力, 包头项目的时候已升任项目负责人.
 
 ### 技术栈
@@ -173,6 +174,7 @@ Comverse(现[Amdocs](https://www.amdocs.com/))作为全球知名的电信支撑�
 - Bash
 
 ## 辽宁铁通BOSS系统
+辽宁铁通BOSS系统是大唐软件获得的第一个铁通省级项目, 为辽宁铁通的BOSS业务提供支撑.
 做为项目经理, 在北京总部组件团队, 同时在辽宁分支机构招聘人员, 利用公司现有软件, 在客户现场做定制化开发, 数据迁移, 交付与集成。  
 ### 技术栈
 - Java, J2EE, Struts, Tomcat, Weblogic

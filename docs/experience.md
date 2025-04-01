@@ -27,14 +27,17 @@ hide:
 
 # IBM
 ???+ tip "Cloud Application Developer / 2013.11 - 2016.12"
-    1. SCO(Smart Cloud Orchestration) - 基于OpenStack的混合云产品 开发. 
-    2. [LinuxONE](https://www.ibm.com/cn-zh/linuxone) - 在SystemZ上构建基于Linux和OpenStack的软件生态平台.
+    1. SCO(Smart Cloud Orchestration)是IBM全球团队研发的基于OpenStack的混合云, 主要负责:   
+        - Installation, 使用Ansible, Chef, Bash等工具将SCO中的各个模块整合成产品包, 并进行相关的验证.   
+        - Integration, 集成OpenStack源代码, 二次开发代码, IBM内部的软件如ZVM, DB2, WebSphere等, 外部软件如Vmware.   
+        - 基础组件如 Dashboard, Nova的边缘性开发工作.
+    2. [LinuxONE](https://www.ibm.com/cn-zh/linuxone) - 带领团队在ystemZ上构建基于Linux和OpenStack的软件生态平台.
 
 ---
 
 # [源讯](https://atos.net/en/)
 ???+ tip "Senior Application Developer / 2010.08 - 2013.10"
-    1. 在法国Grenoble, 与法国工程师一道, 从事法国电网(ERDF)智能电网项目 [Linky](https://particulier.edf.fr/en/home/contract-and-consumption/meter/linky-meter.html) 的研发工作. 
+    1. 常驻法国Grenoble, 与法国同事一道, 从事法国电网(ERDF)智能电网项目 [Linky](https://particulier.edf.fr/en/home/contract-and-consumption/meter/linky-meter.html) 的研发工作. 
     2. 回国后, 与中兴成立合资公司, 进行本地化开发与部署, 推动智能电网项目在南方电网(深圳)的落地.
 
 ---

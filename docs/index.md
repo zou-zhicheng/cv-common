@@ -23,7 +23,6 @@ hide:
 
 ### **全栈开发与DevOps**
 - 语言与框架：Python（Django/FastAPI）、Java（Spring）、Go、HTML5、CSS3、JavaScript、TypeScript、Angular、Vue。
-- 工具链：Ansible/Terraform实现IaC，Prometheus/ELK/Grafana构建监控体系。
 - Web开发, 熟悉HTML, CSS, JavaScript, TypeScript, NodeJS, Angular, Vue开发及其生态.
 - 工具链：Ansible/Terraform实现IaC，Prometheus/ELK/Grafana构建监控体系。
 
@@ -39,7 +38,7 @@ hide:
 - [项目经验](./projects.md)
 - [职业技能](./skills.md)
 - [证书奖励](./certificates.md)
-- [兴趣爱好](./interests.md)
+<!-- - [兴趣爱好](./interests.md) -->
 <!-- - [简历下载](./download.md) -->
 
 ---

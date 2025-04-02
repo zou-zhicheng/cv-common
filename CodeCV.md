@@ -1,5 +1,9 @@
-# 邹志成 
-(+86)186-0138-9410｜ zouzhicheng@foxmail.com | 详细简历:[https://zou-zhicheng.github.io/cv-common/](https://zou-zhicheng.github.io/cv-common/)
+# 邹志成 云计算专家 全栈工程师
+- icon:phone (+86)186-0138-9410
+- icon:email zouzhicheng@foxmail.com
+- icon:github [https://zou-zhicheng.github.io/cv-common/](https://zou-zhicheng.github.io/cv-common/)
+
+
 ## 教育背景
 ::: start
 **2001.09 - 2005.07**
@@ -115,7 +119,7 @@ icon:jilindaxue **吉林大学** `985` `211` `双一流`
 ---
 
 ::: start
-**2013.11 - 2016.12**
+**2007.12 - 2009.06**
 
 :::
 [**瞬联**](https://www.cienet.com/zh-hans)
@@ -243,7 +247,7 @@ icon:jilindaxue **吉林大学** `985` `211` `双一流`
 - **背景：** 需要对各种资源进行监控以保障服务的稳定运行.
 - **职责：**
   - 收集服务器, 虚拟机, 网络设备等信息, 在ElasticSearch中进行存储. 利用Grafana和Echarts进行大屏展示.  并开发告警引擎.  
-  - 高峰时宜信在全国拥有1000+的职场, 职场网络稳定稳定和排错需要大量人力, 我们通过创新型的在职场部署树莓派终端, 对职场网络进行快速进行定位与排查, 有效的监督职场网络, 保障服务的运行. 同时在这个基础之上, 结合在主要云服务提供商部署节点, 实现类似 [听云](https://www.tingyun.com/) 效果的 宜信测 功能.  并进行了一些商业化的开拓. 
+  - 高峰时宜信在全国拥有1000+的职场, 职场网络稳定稳定和排错需要大量人力, 我们通过创新型的在职场部署树莓派终端, 对职场网络进行快速进行定位与排查, 有效的监督职场网络, 保障服务的运行. 同时在这个基础之上, 结合在主要云服务提供商部署节点, 实现类似 [听云](https://www.tingyun.com/) 效果的 **宜信测** 功能.  并进行了一些商业化的开拓. 
 - **技术栈：** 
   - Python / Django / Celery / Scrapy / RabbitMQ
   - Vue / Selenium

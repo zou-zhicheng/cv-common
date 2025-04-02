@@ -37,7 +37,11 @@ hide:
 - 每年都获得总部的口头和书面嘉奖.    
 
 ### 技术栈
-Azure Cloud, Azure Funtion, Azure IoT Hub, Azure Event Hub, Azure AKS, Azure Key Vault, Aliyun Cloud, ARM, Ansible, Terraform, FastAPI, Django, TypeScript, Angular, Vue, Element UI, Playwright, Java, Spring, ThingsBord, SQL Server, MySQL, PostgreSQL, CosmosDB ...
+  - 云: Azure, 阿里云, Docker, K8S ...
+  - 开发: Python, FastAPI, Django, TypeScript, HTML3, CSS3, Angular, Vue, Java
+  - IaC: ARM, Ansible, Terraform
+  - IoT: Azure IoT Hub, ThingsBoard
+  - 数据库: SQL Server, MySQL, PostgreSQL, CosmosDB, MongoDB, Kafka, Cassandra, InfluxDB
 
 ---
 
@@ -146,7 +150,7 @@ OpenStack, Django, Ansible, Chef, Java, SSH(Struts, Spring, Hibernetes) ...
 ATOS Smart Grid Suit (ASGS)目标是为法国电力公司(ERDF) Linky项目建立一套坚强, 灵活, 自愈, 易扩展的新一代智能电网系统, 项目达到3500万台智能电表, 70万台集中器的规模, 为欧洲第一的智能电网系统. 系统基于SOA理念, 采用经典的JavaEE架构,  向外部系统提供核心的Service Bus.
 ### 主要工作
 - 常驻法国Grenoble, 与法国同事一起, 研发核心模块.
-- 系统集成, 负责从电表, 系统, 服务器的集成和验证.
+- 系统集成, 负责从电表, 集中器, 系统, 服务器的集成和验证.
 - 与中兴成立了合资公司, 合建南方电网(深圳)项目, 共3期POC, 负责一些本地化的开发和集成工作.
 ### 技术栈
 Java, JavaEE, OSGi, Weblogic Service Bus ...

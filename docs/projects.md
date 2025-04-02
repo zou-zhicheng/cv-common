@@ -10,24 +10,24 @@ hide:
 
 ### 主要工作
 作为索尼半导体在中国唯一的Staff Cloud Engineer, 主要从事了如下工作:
-#### 系统集成
+#### 1. 系统集成
 将 [AITRIOS](https://www.aitrios.sony-semicon.com/) 解决方案从日本引入到中国, 包括 
 - 将解决方案从 Azure全球 迁移 Azure中国(世纪互联), 解决其中的技术, 备案, 合规, 安全, 服务缺失等各项问题.
 - 与硬件团队和嵌入式团队合作, 将摄像头, 主板(树莓派, 定制版), ESP32, 嵌入式软件(FreeRTOS, Nuttx)等集成在一起, 逐步调试, 接入到 Azure中国(世纪互联).
 
-#### 全球开发
+#### 2. 全球开发
 - 前端最早基于Pro UI构造, 性能和先进性上已远远不能满足需求, 率领中国团队以Angular 16进行重构, 并持续升级到Angular 18.
 - 使用 Playwright 建立了一套前端页面测试系统.
 - 后端最初限定于Azure Cloud解决方案(Azure Function, IoT Hub, Event Hub, CosmosDB, Key Vault...), 与全球团队合作, 将后端整体重构, 引入抽象层, 进行多云适配(阿里云, 私有云).   
 - 初期系统部署采用 ARM(Azure Resource Manager) 进行自动化部署, 引入多云战略后, 采用 Python, Ansible, Terraform实现IaC.   
 - 将Azure IoT Hub替换为ThingsBoard, 并对ThingsBoard做一些二次开发工作.
 
-#### 本地需求
+#### 3. 本地需求
 - 搜集中国客户需求, 并将需求转换成需求文档和开发文档提交给总部.   
 - 根据中国客户开发一些简单的PoC系统.   
 - 在Azure中国缺乏Automation组件的情况下, 根据FinOps的基本原则, 使用Django + Celery + Vue 的技术栈, 结合IaC工具, 对云资源进行管理和调度, 为公司节省了 40% 左右的云开销.   
 
-#### 项目管理
+#### 4. 项目管理
 - 与总部确立里程碑任务, 并在中国落实.   
 - 管理外包团队, 制定考核标准, 监督交付效果, 引领技术方向.   
 

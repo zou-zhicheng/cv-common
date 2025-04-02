@@ -19,25 +19,21 @@ icon:jilindaxue **吉林大学** `985` `211` `双一流`
 ---
 
 ## 优势亮点
-### **云计算专家与架构师**
-- Azure云专家, 具备 AZ104, AZ305(Azure Solutions Architect Expert), AZ204, AZ 400(Azure DevOps Engineer Expert) 认证.
-- 阿里云专家, 具备ACP Cloud Container认证.
-- OpenStack, Docker, Kubernetes, 微服务的开发,运维经验.   
-- 对基础架构领域的规划, 软件架构, 开发与运维具有丰富的经验.
+### **云计算与架构设计**
+- 云专家认证：Azure（AZ104/AZ204/AZ305/AZ400）、阿里云ACP容器认证。
+- 技术能力：Azure/阿里云全栈落地经验，精通OpenStack、K8S、微服务架构设计与运维。
+- 架构经验：主导多云（Azure中国、阿里云、私有云）集成与优化，节省40%云资源成本。
 
-### **全栈工程师**
-- Python专家, 深入了解相关生态, 例如Django, FastAPI等框架.
-- 深入了解Java, Spring.
+### **全栈开发与DevOps**
+- 语言与框架：Python（Django/FastAPI）、Java（Spring）、Go、HTML5、CSS3、JavaScript、TypeScript、Angular、Vue。
+- 工具链：Ansible/Terraform实现IaC，Prometheus/ELK/Grafana构建监控体系。
 - Web开发, 熟悉HTML, CSS, JavaScript, TypeScript, NodeJS, Angular, Vue开发及其生态.
-- 了解Go开发与生态.
-- 对开发测试和DevOps有一定的理解.
-- 扎实的技术功底, 始终保持技术热爱度和前瞻性.
+- 工具链：Ansible/Terraform实现IaC，Prometheus/ELK/Grafana构建监控体系。
 
-### **管理经验丰富**
-丰富的项目管理, 软件架构, 开发, 运维与产品经验
-- 丰富的项目和外包管理经验. 
-- 能从0-1开始产品的架构, 原型开发, 产品测试, 后期的运维与监控体系搭建.
-- 具备一定的售前与售后支持经验.
+### **项目管理与团队协作**
+- 10年+跨团队管理经验，主导从0到1的架构设计、开发、运维及商业化落地。
+- 能够协调全球团队完成核心模块开发，管理外包资源并提升交付质量。
+- 具备一定的售前与售后支持经验。
 
 ## 工作经历
 ::: start
@@ -53,11 +49,10 @@ icon:jilindaxue **吉林大学** `985` `211` `双一流`
 **Cloud Principle Engineer**
 
 ::: end
--   将索尼半导体的 [AITRIOS](https://www.aitrios.sony-semicon.com/) 项目引入中国, 并带领中国团队参与项目的全球研发.
-  - 作为中国区唯一的Staff Cloud Engineer, 将 AITRIOS 在Azure中国(世纪互联)落地, 运维, 并进行本地化开发.
-  - AITRIOS WEB portal的全球核心开发.  
-  - 协调与管理外包资源.  
-  - 交流,，协商，开发中国客户的定制化需求.
+    - **[AITRIOS](https://www.aitrios.sony-semicon.com/)中国区落地**: 主导Azure中国（世纪互联）迁移，解决合规性、服务缺失问题，集成硬件（树莓派/ESP32）与边缘AI系统。
+    - **技术升级**: 前端使用Angular重构, 后端引入多云适配层（阿里云/私有云），开发IaC工具链（Python + Ansible + Terraform）
+    - **成本优化**: 设计Django+Celery资源调度系统，年节省40%云开支，获2023财年“最佳个人贡献奖”。
+    - **项目管理**: 管理项目进度, 管理外包资源, 挖掘中国客户定制化需求.    
 
 ---
 
@@ -74,7 +69,9 @@ icon:jilindaxue **吉林大学** `985` `211` `双一流`
 **架构师**
 
 ::: end
-- 在基础架构部从0到1构建起了CMBD, 全网监控, 数据库管理系统。并参与开发和运维基于Kubernetes的PaaS平台和各种中间件.
+  - **运维体系构建**: 从0设计CMDB、全网监控、数据库管理平台，支撑2000+节点运维。
+  - **K8S PaaS平台**: 参与开发和运维基于Kubernetes的PaaS平台和各种中间件.
+  - **创新方案**：树莓派终端实现全国职场网络监控，商业化探索获内部创新奖。
 
 ---
 

@@ -9,19 +9,18 @@ hide:
 # [索尼](https://www.sony-semicon.com/cn/index.html)
 
 ???+ tip "Cloud Principal Engineer / 2021.12 - 2024.12"
-    将索尼半导体的 [AITRIOS](https://www.aitrios.sony-semicon.com/) 项目引入中国, 并带领中国团队参与项目的全球研发.
-    
-    1. 作为中国区唯一的Staff Cloud Engineer, 将 AITRIOS 在Azure中国(世纪互联)落地, 运维, 并进行本地化开发.
-    2. AITRIOS WEB portal的核心开发.  
-    3. 协调与管理外包资源.   
-    4. 交流,，协商，开发中国客户的定制化需求.
+    1. **[AITRIOS](https://www.aitrios.sony-semicon.com/)中国区落地**: 主导Azure中国（世纪互联）迁移，解决合规性、服务缺失问题，集成硬件（树莓派/ESP32）与边缘AI系统。
+    2. **技术升级**: 前端使用Angular重构, 后端引入多云适配层（阿里云/私有云），开发IaC工具链（Python + Ansible + Terraform）
+    3. **成本优化**: 设计Django+Celery资源调度系统，年节省40%云开支，获2023财年“最佳个人贡献奖”。
+    4. **项目管理**: 管理项目进度, 管理外包资源, 挖掘中国客户定制化需求.    
 
 ---
 
 # [宜信](https://www.creditease.com/)
 ???+ tip "架构师 / 2016.12 - 2021.11"
-    1. 从0到1构建起了CMBD, 全网监控, 数据库管理系统.
-    2. 参与开发和运维基于Kubernetes的PaaS平台和各种中间件.
+    1. **运维体系构建**: 从0设计CMDB、全网监控、数据库管理平台，支撑2000+节点运维。
+    2. **K8S PaaS平台**: 参与开发和运维基于Kubernetes的PaaS平台和各种中间件.
+    3. **创新方案**：树莓派终端实现全国职场网络监控，商业化探索获内部创新奖。
 
 ---
 

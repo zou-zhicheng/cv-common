@@ -4,7 +4,7 @@ hide:
   - toc
 --- -->
 
-# 索尼
+# [索尼](https://www.sony-semicon.com/cn/index.html)
 ### 项目简介
 [AITRIOS](https://www.aitrios.sony-semicon.com/) 是 [索尼半导体](https://www.sony-semicon.com/index.html) 创新解决方案, 利用 Edge Vision AI, IoT, Cloud 等技术在构建一套以索尼摄像头为核心的革命性的生态系统.
 
@@ -47,7 +47,7 @@ hide:
 
 ---
 
-# 宜信
+# [宜信](https://www.creditease.com/)
 2016年加入宜信之初, 主要任务是以OpenStack为基础, 与合作伙伴一起共建金融云平台.   
 2017年公司组织结构调整, 放弃金融云平台, 转向传统运维. 帮助总公司对各子公司进行基础架构资源整合, 结合自己对于运维,ITSM,ITIL的理解, 挖掘公司痛点, 发挥开发特长, 架构, 开发和维护了一系列运维工具. 帮助公司快速的完成了基础架构的融合和稳定运行.   
 
@@ -113,7 +113,7 @@ DBAnt是提供给DBA, 开发者, 系统运维的统一的数据库运维工具.
 
 ---
 
-# IBM
+# [IBM](https://www.ibm.com/cn-zh)
 ## Smart Cloud Orchestrator (SCO)
 SCO是IBM以OpenStack为基础，整合IBM内部资源进行对计算，存储，网络等资源进行管理，为企业构建易于使用，安全，可扩展的私有,公有和混合云.  
 工作内容:
@@ -134,7 +134,7 @@ SCO中国团队解散之后, 加入 SystemZ LinuxONE 团队, [LinuxONE](https://
 
 ---
 
-# ATOS
+# [源讯](https://atos.net/en/)
 ## 智能电网系统
 ATOS Smart Grid Suit (ASGS)目标是为法国电力公司(ERDF) Linky项目建立一套坚强，灵活，自愈，易扩展的新一代智能电网系统，项目达到3500万台智能电表，70万台集中器的规模，为欧洲第一的智能电网系统. 系统基于SOA理念, 采用经典的JavaEE架构， 向外部系统提供核心的Service Bus.
 工作职责如下:

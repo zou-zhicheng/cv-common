@@ -6,7 +6,7 @@ hide:
 
 <!-- https://codecv.top/ -->
 
-# 索尼
+# [索尼](https://www.sony-semicon.com/cn/index.html)
 
 ???+ tip "Cloud Principal Engineer / 2021.12 - 2024.12"
     将索尼半导体的 [AITRIOS](https://www.aitrios.sony-semicon.com/) 项目引入中国, 并带领中国团队参与项目的全球研发.
@@ -18,14 +18,14 @@ hide:
 
 ---
 
-# 宜信
+# [宜信](https://www.creditease.com/)
 ???+ tip "架构师 / 2016.12 - 2021.11"
     1. 从0到1构建起了CMBD, 全网监控, 数据库管理系统.
     2. 参与开发和运维基于Kubernetes的PaaS平台和各种中间件.
 
 ---
 
-# IBM
+# [IBM](https://www.ibm.com/cn-zh)
 ???+ tip "Cloud Application Developer / 2013.11 - 2016.12"
     1. SCO(Smart Cloud Orchestration)是IBM全球团队研发的基于OpenStack的混合云, 主要负责:   
         - Installation, 使用Ansible, Chef, Bash等工具将SCO中的各个模块整合成产品包, 并进行相关的验证.   

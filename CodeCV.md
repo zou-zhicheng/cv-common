@@ -132,7 +132,7 @@ icon:jilindaxue **吉林大学** `985` `211` `双一流`
 
 ## 项目经验
 
-### [**索尼**](https://www.sony-semicon.com/cn/index.html)
+### [索尼](https://www.sony-semicon.com/cn/index.html)
 ::: start
 **2021.12 - 2024.12**
 :::
@@ -277,7 +277,7 @@ icon:jilindaxue **吉林大学** `985` `211` `双一流`
 
 ---
 
-### IBM
+### [IBM](https://www.ibm.com/cn-zh)
 
 ::: start
 **2013 - 2016**
@@ -313,7 +313,7 @@ SCO(Smart Cloud Orchestration)
 
 ---
 
-### ATOS
+### [源讯](https://atos.net/en/)
 
 ::: start
 **2010.08 - 2013.10**
@@ -332,7 +332,7 @@ SCO(Smart Cloud Orchestration)
 
 ---
 
-### CIeNT
+### [瞬联](https://www.cienet.com/zh-hans)
 
 ::: start
 **2007.12 - 2010.07**
@@ -348,7 +348,7 @@ SCO(Smart Cloud Orchestration)
 
 ---
 
-### 大唐电信
+### [大唐电信](https://www.datang.com/)
 
 ::: start
 **2005**
@@ -403,6 +403,6 @@ SCO(Smart Cloud Orchestration)
 ### 阿里云
 - Alibaba Cloud Certified Professional - Cloud Container
 
-### SONY
+### 索尼
 - 2022: 2021财年团队协作奖
 - 2024: 2023财年最佳个人贡献奖

@@ -26,7 +26,6 @@ icon:jilindaxue **吉林大学** `985` `211` `双一流`
 
 ### **全栈开发与DevOps**
 - 语言与框架：Python（Django/FastAPI）、Java（Spring）、Go、HTML5、CSS3、JavaScript、TypeScript、Angular、Vue。
-- 工具链：Ansible/Terraform实现IaC，Prometheus/ELK/Grafana构建监控体系。
 - Web开发, 熟悉HTML, CSS, JavaScript, TypeScript, NodeJS, Angular, Vue开发及其生态.
 - 工具链：Ansible/Terraform实现IaC，Prometheus/ELK/Grafana构建监控体系。
 

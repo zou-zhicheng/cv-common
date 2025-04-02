@@ -7,13 +7,10 @@
 ## 教育背景
 ::: start
 **2001.09 - 2005.07**
-
 :::
 icon:jilindaxue **吉林大学** `985` `211` `双一流`
-
 :::
 **计算机科学与技术专业 - 学士**
-
 ::: end
 
 ---
@@ -37,17 +34,14 @@ icon:jilindaxue **吉林大学** `985` `211` `双一流`
 ## 工作经历
 ::: start
 **2021.12 - 2024.12**
-
 :::
-[**索尼半导体**](https://www.sony-semicon.com/cn/index.html)
-
+[**索尼**](https://www.sony-semicon.com/cn/index.html)
 :::
 **开发中心**
-
 :::
 **Cloud Principle Engineer**
-
 ::: end
+
 - **[AITRIOS](https://www.aitrios.sony-semicon.com/)中国区落地**: 主导Azure中国（世纪互联）迁移, 解决合规性、服务缺失问题, 集成硬件（树莓派/ESP32）与边缘AI系统。
 - **技术升级**: 前端使用Angular重构, 后端引入多云适配层（阿里云/私有云）, 开发IaC工具链（Python + Ansible + Terraform）
 - **成本优化**: 设计Django+Celery资源调度系统, 年节省40%云开支, 获2023财年“最佳个人贡献奖”。
@@ -57,17 +51,14 @@ icon:jilindaxue **吉林大学** `985` `211` `双一流`
 
 ::: start
 **2016.12 - 2021.11**
-
 :::
 [**宜信**](https://www.creditease.com/)
-
 :::
 **基础架构部**
-
 :::
 **架构师**
-
 ::: end
+
 - **运维体系构建**: 从0设计CMDB、全网监控、数据库管理平台, 支撑2000+节点运维。
 - **K8S PaaS平台**: 参与开发和运维基于Kubernetes的PaaS平台和各种中间件.
 - **创新方案**：树莓派终端实现全国职场网络监控, 商业化探索获内部创新奖。
@@ -76,17 +67,14 @@ icon:jilindaxue **吉林大学** `985` `211` `双一流`
 
 ::: start
 **2013.11 - 2016.12**
-
 :::
-**IBM**
-
+[**IBM**](https://www.ibm.com/cn-zh)
 :::
 **CDL**
-
 :::
 **Cloud Developer**
-
 ::: end
+
 - SCO(Smart Cloud Orchestration)是IBM全球团队研发的基于OpenStack的混合云, 主要负责:   
   - Installation, 使用Ansible, Chef, Bash等工具将SCO中的各个模块整合成产品包, 并进行相关的验证.   
   - Integration, 集成OpenStack源代码, 二次开发代码, IBM内部的软件如ZVM, DB2, WebSphere等, 外部软件如Vmware.   
@@ -97,16 +85,12 @@ icon:jilindaxue **吉林大学** `985` `211` `双一流`
 
 ::: start
 **2010.08 - 2013.10**
-
 :::
 [**源讯**](https://atos.net/en/)
-
 :::
 **Smart  Grid**
-
 :::
 **Application Developer**
-
 ::: end
 
 - 在法国Grenoble, 与法国工程师一道, 从事法国电网(ERDF)智能电网项目 [Linky](https://particulier.edf.fr/en/home/contract-and-consumption/meter/linky-meter.html) 的研发工作.
@@ -116,16 +100,12 @@ icon:jilindaxue **吉林大学** `985` `211` `双一流`
 
 ::: start
 **2007.12 - 2009.06**
-
 :::
 [**瞬联**](https://www.cienet.com/zh-hans)
-
 :::
 [**Comverse**](https://en.wikipedia.org/wiki/Comverse_Technology)
-
 :::
 **Java Developer**
-
 ::: end
 
 - 参与 Comverse(现[Amdocs]( https://www.amdocs.com/)) 的离岸外包项目Product Catalog的研发工作, 该项目是一款基于Java Swing编写的对电信BOSS项目基础元数据进行管理的工具.
@@ -134,16 +114,12 @@ icon:jilindaxue **吉林大学** `985` `211` `双一流`
 
 ::: start
 **2005.02 - 2007.12**
-
 :::
 [**大唐电信**](https://www.datang.com/)
-
 :::
 **计费中心**
-
 :::
 **Developer**
-
 ::: end
 
 - 初期研发基于J2EE开发的计费系统和经营分析系统.
@@ -156,11 +132,11 @@ icon:jilindaxue **吉林大学** `985` `211` `双一流`
 
 ## 项目经验
 
-### 索尼
+### [**索尼**](https://www.sony-semicon.com/cn/index.html)
 ::: start
 **2021.12 - 2024.12**
 :::
-**ATRIOS**
+**[AITRIOS](https://www.aitrios.sony-semicon.com/)**
 :::
 **中国区云技术负责人**
 ::: end
@@ -196,7 +172,7 @@ icon:jilindaxue **吉林大学** `985` `211` `双一流`
 
 ---
 
-### 宜信
+### [宜信](https://www.creditease.com/)
 2016年加入宜信之初, 主要任务是以OpenStack为基础, 与合作伙伴一起共建金融云平台.  
 2017年公司组织结构调整, 放弃金融云平台, 转向传统运维. 帮助总公司对各子公司进行基础架构资源整合, 结合自己对于运维,ITSM,ITIL的理解, 挖掘公司痛点, 发挥开发特长, 架构, 开发和维护了一系列运维工具, 帮助公司快速的完成了基础架构的数字化.  
 

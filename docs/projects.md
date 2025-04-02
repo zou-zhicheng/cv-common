@@ -133,7 +133,7 @@ SCO是IBM以OpenStack为基础, 整合IBM内部资源进行对计算, 存储, �
 Pyhton, Django, Ansible, Chef, Shell ...
 
 ## [LinuxONE](https://www.ibm.com/cn-zh/linuxone)
-### 项目背景
+### 项目简介
 SCO中国团队解散之后, 加入 SystemZ LinuxONE 团队, [LinuxONE](https://www.ibm.com/cn-zh/linuxone) 尝试在IBM SystemZ 上构建普通Linux和OpenStack的云生态. 
 ### 主要工作
 - 将 OpenStack 在 IBM SystemZ 大型系统上做迁移, 让System Z能够享受到 Linux 和 OpenStack 的生态系统.
@@ -146,7 +146,7 @@ OpenStack, Django, Ansible, Chef, Java, SSH(Struts, Spring, Hibernetes) ...
 
 # [源讯](https://atos.net/en/)
 ## 智能电网系统
-### 项目背景
+### 项目简介
 ATOS Smart Grid Suit (ASGS)目标是为法国电力公司(ERDF) Linky项目建立一套坚强, 灵活, 自愈, 易扩展的新一代智能电网系统, 项目达到3500万台智能电表, 70万台集中器的规模, 为欧洲第一的智能电网系统. 系统基于SOA理念, 采用经典的JavaEE架构,  向外部系统提供核心的Service Bus.
 ### 主要工作
 - 常驻法国Grenoble, 与法国同事一起, 研发核心模块.
@@ -170,7 +170,7 @@ Java Swing ...
 
 # [大唐电信](https://www.datang.com/)
 ## 计费系统研发
-### 项目背景
+### 项目简介
 大唐软件下一代省级计费系统, 实现从 C/S 模式到 B/S 模式的转变.   
 ### 主要工作
 Java开发
@@ -178,16 +178,16 @@ Java开发
 Java, Struts, J2EE, Weblogic ...
 
 ## 经营分析系统
-### 项目背景
+### 项目简介
 基于 Hyperion 的商业智能解决方案, 在内蒙古赤峰和包头网通(现中国联通)承建了经营分析系统, 通过对各种源数据进行分析, 创建ETL脚本清理整合数据, 创建经营分析报表, 为企业经营决策提供支撑.
 ### 主要工作  
 在赤峰项目的时候是开发核心主力, 包头项目的时候已升任项目负责人.
 ### 技术栈
 Hyperion, JavaScript, Oracle, Shell ...
 
-## 辽宁铁通BOSS系统
-### 项目背景
-辽宁铁通BOSS系统是大唐软件获得的第一个铁通省级项目, 为辽宁铁通的BOSS业务提供支撑.
+## 辽宁铁通BSS/OSS系统
+### 项目简介
+辽宁铁通BSS/OSS系统是大唐软件获得的第一个铁通省级项目, 为辽宁铁通的BOSS业务提供支撑.
 ### 主要工作
 做为项目经理, 在北京总部组件团队, 同时在辽宁分支机构招聘人员, 利用公司现有软件, 在客户现场做定制化开发, 数据迁移, 交付与集成。  
 ### 技术栈

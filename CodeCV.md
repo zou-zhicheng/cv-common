@@ -35,7 +35,7 @@ icon:jilindaxue **吉林大学** `985` `211` `双一流`
 ::: start
 **2021.12 - 2024.12**
 :::
-[**索尼**](https://www.sony-semicon.com/cn/index.html)
+[**索尼半导体**](https://www.sony-semicon.com/cn/index.html)
 :::
 **开发中心**
 :::
@@ -93,7 +93,7 @@ icon:jilindaxue **吉林大学** `985` `211` `双一流`
 **Application Developer**
 ::: end
 
-- 在法国Grenoble, 与法国工程师一道, 从事法国电网(ERDF)智能电网项目 [Linky](https://particulier.edf.fr/en/home/contract-and-consumption/meter/linky-meter.html) 的研发工作.
+- 常驻法国Grenoble, 与法国工程师一道, 从事法国电网(ERDF)智能电网项目 [Linky](https://particulier.edf.fr/en/home/contract-and-consumption/meter/linky-meter.html) 的研发工作.
 - 回国后, 与中兴成立合资公司, 进行本地化开发与部署, 推动智能电网项目在南方电网(深圳)的落地.
 
 &nbsp;

@@ -13,7 +13,7 @@ icon:jilindaxue **吉林大学** `985` `211` `双一流`
 **计算机科学与技术专业 - 学士**
 ::: end
 
----
+&nbsp;
 
 ## 优势亮点
 ### **云计算与架构设计**
@@ -47,7 +47,7 @@ icon:jilindaxue **吉林大学** `985` `211` `双一流`
 - **成本优化**: 设计Django+Celery资源调度系统, 年节省40%云开支, 获2023财年“最佳个人贡献奖”。
 - **项目管理**: 管理项目进度, 管理外包资源, 挖掘中国客户定制化需求.    
 
----
+&nbsp;
 
 ::: start
 **2016.12 - 2021.11**
@@ -63,7 +63,7 @@ icon:jilindaxue **吉林大学** `985` `211` `双一流`
 - **K8S PaaS平台**: 参与开发和运维基于Kubernetes的PaaS平台和各种中间件.
 - **创新方案**：树莓派终端实现全国职场网络监控, 商业化探索获内部创新奖。
 
----
+&nbsp;
 
 ::: start
 **2013.11 - 2016.12**
@@ -81,7 +81,7 @@ icon:jilindaxue **吉林大学** `985` `211` `双一流`
   - 基础组件如 Dashboard, Nova的边缘性开发工作.
 - [LinuxONE](https://www.ibm.com/cn-zh/linuxone) - 带领团队在ystemZ上构建基于Linux和OpenStack的软件生态平台.
 
----
+&nbsp;
 
 ::: start
 **2010.08 - 2013.10**
@@ -96,7 +96,7 @@ icon:jilindaxue **吉林大学** `985` `211` `双一流`
 - 在法国Grenoble, 与法国工程师一道, 从事法国电网(ERDF)智能电网项目 [Linky](https://particulier.edf.fr/en/home/contract-and-consumption/meter/linky-meter.html) 的研发工作.
 - 回国后, 与中兴成立合资公司, 进行本地化开发与部署, 推动智能电网项目在南方电网(深圳)的落地.
 
----
+&nbsp;
 
 ::: start
 **2007.12 - 2009.06**
@@ -110,7 +110,7 @@ icon:jilindaxue **吉林大学** `985` `211` `双一流`
 
 - 参与 Comverse(现[Amdocs]( https://www.amdocs.com/)) 的离岸外包项目Product Catalog的研发工作, 该项目是一款基于Java Swing编写的对电信BOSS项目基础元数据进行管理的工具.
 
----
+&nbsp;
 
 ::: start
 **2005.02 - 2007.12**
@@ -126,7 +126,7 @@ icon:jilindaxue **吉林大学** `985` `211` `双一流`
 - 后期做为项目经理负责辽宁省铁通大BOSS系统的本地化实施.
 - 一些售前工作.
 
----
+&nbsp;
 
 
 
@@ -170,7 +170,7 @@ icon:jilindaxue **吉林大学** `985` `211` `双一流`
   - IoT: Azure IoT Hub, ThingsBoard
   - 数据库: SQL Server, MySQL, PostgreSQL, CosmosDB, MongoDB, Kafka, Cassandra, InfluxDB
 
----
+&nbsp;
 
 ### [宜信](https://www.creditease.com/)
 2016年加入宜信之初, 主要任务是以OpenStack为基础, 与合作伙伴一起共建金融云平台.  
@@ -275,7 +275,7 @@ icon:jilindaxue **吉林大学** `985` `211` `双一流`
   - 配合与响应内部系统上云(将原有系统K8S化, 微服务化) 和 下云(将一部分应用服务从公有云迁移到私有云以降低成本) 需求.
 - **技术栈**: Ansible, Python, Shell
 
----
+&nbsp;
 
 ### [IBM](https://www.ibm.com/cn-zh)
 
@@ -311,7 +311,7 @@ SCO(Smart Cloud Orchestration)
   - 创建 Web Portal 展示 LinuxONE 生态.
 - **技术栈**: OpenStack, Django, Ansible, Chef, Java, SSH(Struts, Spring, Hibernetes) ... 
 
----
+&nbsp;
 
 ### [源讯](https://atos.net/en/)
 
@@ -330,7 +330,7 @@ SCO(Smart Cloud Orchestration)
   - 与中兴成立了合资公司, 合建南方电网(深圳)项目, 共3期POC, 负责一些本地化的开发工作.
 - **技术栈**: Java, JavaEE, OSGi, Weblogic Service Bus ...
 
----
+&nbsp;
 
 ### [瞬联](https://www.cienet.com/zh-hans)
 
@@ -346,7 +346,7 @@ SCO(Smart Cloud Orchestration)
 - **职责**: Java 开发.
 - **技术栈**: Java Swing ...
 
----
+&nbsp;
 
 ### [大唐电信](https://www.datang.com/)
 

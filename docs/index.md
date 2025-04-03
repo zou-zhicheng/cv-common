@@ -9,6 +9,7 @@ hide:
  - 本科 / 吉林大学计算机科学与技术学院 / 2001 - 2005
  - 工作年限：20年
  - Github：[https://github.com/zou-zhicheng](https://github.com/zou-zhicheng)
+ - Linkedin: [https://www.linkedin.com/in/zouzhicheng/](https://www.linkedin.com/in/zouzhicheng/)
  - 期望职位：架构师 技术负责人 高级开发工程师
  - 期望薪资：税前月薪40K+，特别喜欢的公司可例外
  - 期望城市：北京

@@ -2,7 +2,7 @@
 - icon:phone (+86)186-0138-9410
 - icon:email zouzhicheng@foxmail.com
 - icon:github [https://zou-zhicheng.github.io/cv-common/](https://zou-zhicheng.github.io/cv-common/)
-
+- icon:linkedin [https://www.linkedin.com/in/zouzhicheng/](https://www.linkedin.com/in/zouzhicheng/)
 
 ## 教育背景
 ::: start

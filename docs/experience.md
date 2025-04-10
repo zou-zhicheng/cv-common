@@ -26,7 +26,7 @@ hide:
 
 
 
-# [奇虎360](https://www.creditease.com/)
+# [奇虎360](https://www.qianxin.com/)
 ???+ tip "项目经理 / 2016.08 - 2016.12"
     1. **[态势感知与安全运营平台(NGSOC)](https://www.qianxin.com/product/detail/pid/358)**: 以研发工程师加入研发团队, 迅速被提拔成项目经理, 负责青岛海关"态势感知平台"定制化开发和实施。
 
@@ -35,7 +35,7 @@ hide:
 
 
 # [IBM](https://www.ibm.com/cn-zh)
-???+ tip "Cloud Application Developer / 2013.11 - 2016.7"
+???+ tip "Cloud Developer / 2013.11 - 2016.7"
     1. SCO(Smart Cloud Orchestration)是IBM全球团队研发的基于OpenStack的混合云, 主要负责:   
         - Installation, 使用Ansible, Chef, Bash等工具将SCO中的各个模块整合成产品包, 并进行相关的验证.   
         - Integration, 集成OpenStack源代码, 二次开发代码, IBM内部的软件如ZVM, DB2, WebSphere等, 外部软件如Vmware.   

@@ -105,20 +105,32 @@ Django, Celery, Vue, Ansible, Prometheus, ElasticSearch, Grafana, Echarts ...
 - 配合与响应内部系统 **上云**(将原有系统K8S化, 微服务化) 和 **下云**(将一部分应用服务从公有云迁移到私有云以降低成本) 需求.
 - ...
 ### 技术栈
-GO, Gin, Java, Spring, Spring Cloud ...
+GO, Java, Spring, Spring Cloud ...
 
 
 ## 中间件等传统运维
 ### 项目简介
 宜信后期人员锐减以及总部统一了所有的基础架构, 需要对一系列的中间件运维起来.
 ### 主要工作
-主要做一些基础运维, 例如创建集群, 负责稳定性, 扩缩容等。 本来准备构建一个系统去统一管理, 并做了一点简单原型, 但之后就离职了, 并未形成持续在用的稳定系统. 
+主要做一些基础运维, 例如使用脚本或手动创建集群, 扩缩容, 负责稳定性等。 本来准备构建一个系统去统一管理, 并做了一点简单原型, 但之后就离职了, 并未形成持续在用的稳定系统.  
 相关的中间件主要包括:
-- 消息队列和流： Kafka、 RocketMQ、RabbitMQ ...
+- 消息队列和流： ZooKeeper, Kafka、 RocketMQ、RabbitMQ ...
 - 分布式日志系统：Elasticsearch
-- 微服务相关组件等  
+- 微服务相关组件.
 ### 技术栈   
 Ansible, Python, Shell
+---
+
+# [奇虎360](https://www.qianxin.com/)
+## [态势感知与安全运营平台(NGSOC)](https://www.qianxin.com/product/detail/pid/358)
+### 项目简介
+NGSOC收集各种安全数据, 并利用多种分析方式, 帮助客户持续监测网络安全态势.
+### 主要工作
+- **研发**: 开发安全数据整合工具, 对数据进行清洗和归集.
+- **项目经理**: 由于开发能力和综合能力突出, 迅速被领导赏识, "被"提拔成青岛海关的项目经理. 进行但由于需要常驻现场, 家里小孩太小, 在交涉无果的情况下, 最终选择离职.
+### 技术栈
+Pyhton, SQL, Bash ...
+
 ---
 
 # [IBM](https://www.ibm.com/cn-zh)

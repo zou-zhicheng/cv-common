@@ -12,20 +12,20 @@ hide:
  - Linkedin: [https://www.linkedin.com/in/zouzhicheng/](https://www.linkedin.com/in/zouzhicheng/)
  - 期望职位：架构师 技术负责人 高级开发工程师
  - 期望薪资：税前月薪40K+，特别喜欢的公司可例外
- - 期望城市：北京
+ - 期望城市：北京, 远程
 
 --- 
 
 # 优势亮点
 ### **云计算与架构设计**
-- 云专家认证：Azure（AZ104/AZ204/AZ305/AZ400）、阿里云ACP容器认证。
+- 云专家认证：Azure（AZ104/AZ204/AZ305/AZ400）、阿里云ACP容器认证、了解AWS。
 - 技术能力：Azure/阿里云全栈落地经验，精通OpenStack、K8S、微服务架构设计与运维。
 - 架构经验：主导多云（Azure中国、阿里云、私有云）集成与优化，节省40%云资源成本。
 
-### **全栈开发与DevOps**
+### **全栈开发**
 - 语言与框架：Python（Django/FastAPI）、Java（Spring）、Go、HTML5、CSS3、JavaScript、TypeScript、Angular、Vue。
 - Web开发, 熟悉HTML, CSS, JavaScript, TypeScript, NodeJS, Angular, Vue开发及其生态.
-- 工具链：Ansible/Terraform实现IaC，Prometheus/ELK/Grafana构建监控体系。
+- 工具链：Ansible/Terraform实现IaC，Prometheus/ELK/Grafana等构建监控体系。
 
 ### **项目管理与团队协作**
 - 10年+跨团队管理经验，主导从0到1的架构设计、开发、运维及商业化落地。

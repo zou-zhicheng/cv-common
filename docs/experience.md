@@ -17,15 +17,25 @@ hide:
 ---
 
 # [宜信](https://www.creditease.com/)
-???+ tip "架构师 / 2016.12 - 2021.11"
+???+ tip "架构师 / 2017.01 - 2021.12"
     1. **运维体系构建**: 从0设计CMDB、全网监控、数据库管理平台，支撑2000+节点运维。
     2. **K8S PaaS平台**: 参与开发和运维基于Kubernetes的PaaS平台和各种中间件.
     3. **创新方案**：树莓派终端实现全国职场网络监控，商业化探索获内部创新奖。
 
 ---
 
+
+
+# [奇虎360](https://www.creditease.com/)
+???+ tip "项目经理 / 2016.08 - 2016.12"
+    1. **[态势感知与安全运营平台(NGSOC)](https://www.qianxin.com/product/detail/pid/358)**: 以研发工程师加入研发团队, 迅速被提拔成项目经理, 负责青岛海关"态势感知平台"定制化开发和实施。
+
+---
+
+
+
 # [IBM](https://www.ibm.com/cn-zh)
-???+ tip "Cloud Application Developer / 2013.11 - 2016.12"
+???+ tip "Cloud Application Developer / 2013.11 - 2016.7"
     1. SCO(Smart Cloud Orchestration)是IBM全球团队研发的基于OpenStack的混合云, 主要负责:   
         - Installation, 使用Ansible, Chef, Bash等工具将SCO中的各个模块整合成产品包, 并进行相关的验证.   
         - Integration, 集成OpenStack源代码, 二次开发代码, IBM内部的软件如ZVM, DB2, WebSphere等, 外部软件如Vmware.   

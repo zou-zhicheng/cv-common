@@ -86,7 +86,7 @@ icon:jilindaxue **吉林大学** `985` `211` `双一流`
   - Installation, 使用Ansible, Chef, Bash等工具将SCO中的各个模块整合成产品包, 并进行相关的验证.   
   - Integration, 集成OpenStack源代码, 二次开发代码, IBM内部的软件如ZVM, DB2, WebSphere等, 外部软件如Vmware.   
   - 基础组件如 Dashboard, Nova的边缘性开发工作.
-- [LinuxONE](https://www.ibm.com/cn-zh/linuxone) - 带领2个外包和约8个同济大学软件学院的研究生在ystemZ上构建基于Linux和OpenStack的软件生态平台.
+- [LinuxONE](https://www.ibm.com/cn-zh/linuxone) - 带领2个外包和约8个同济大学软件学院的研究生, 在ystemZ上构建基于Linux和OpenStack的软件生态平台.
 
 &nbsp;
 

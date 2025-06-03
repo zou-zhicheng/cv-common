@@ -16,18 +16,18 @@ icon:jilindaxue **吉林大学** `985` `211` `双一流`
 &nbsp;
 
 ## 优势亮点
+### **云计算专家**
+- **云专家**：Azure架构师认证(AZ104/AZ204/AZ305/AZ400); 阿里云ACP容器认证; 熟悉OpenStack, Docker, Kubernetes等私有云解决方案; 熟练使用Ansible, Terraform等构建IaC; 对云原生, 微服务有深入的理解与实践.
+- **项目与架构经验**：基于Azure/阿里云的解决方案落地经验; 基于Kubernetes的微服务架构与改造方案.
+- **运维专家**: 对基础运维, CMDB, 日志, 监控, 数据库, ITIL, CICD, DevOps等体系建设具有较丰富的经验.
+- 对计算机操作系统原理, Linux, 计算机网络等有一定程度的理解与实践. 
+
 ### **研发专家**
 - **Python专家**：10年以上Python研发经验,熟悉Django,FastAPI, Celery等框架.
 - **Java开发**: 对Java, JVM, SpringMVC, Spring Boot, Spring Cloud有较深入的了解.
 - **Web开发**: 熟悉HTML, CSS, JavaScript, TypeScript, NodeJS, Angular, Vue开发及其生态.
 - **数据库**: 熟悉MySQL数据库运维与调优, 熟练掌握PostgreSQL, Redis, MongoDB, ElasticSearch, InfluxDB等数据解决方案. 
 - 深刻理解计算机原理，有良好的数据结构和算法基础； 
-
-### **云计算专家**
-- **云专家**：Azure架构师认证(AZ104/AZ204/AZ305/AZ400); 阿里云ACP容器认证; 熟悉OpenStack, Docker, Kubernetes等私有云解决方案; 熟练使用Ansible, Terraform等构建IaC; 对云原生, 微服务有一定的理解与实践.
-- **项目与架构经验**：基于Azure/阿里云的解决方案落地经验; 基于Kubernetes的微服务架构与改造方案.
-- **运维专家**: 对基础运维, CMDB, 日志, 监控, 数据库, ITIL, CICD, DevOps等体系建设具有较丰富的经验.
-- 对计算机操作系统原理, Linux, 计算机网络等有一定程度的理解与实践. 
 
 ### **项目管理与团队协作**
 - 10年+跨团队管理经验, 主导从0到1的架构设计、研发、运维及商业化落地.
@@ -44,8 +44,8 @@ icon:jilindaxue **吉林大学** `985` `211` `双一流`
 **Cloud Principle Engineer**
 ::: end
 
+- **云迁移与运维**: 主导 [AITRIOS](https://www.aitrios.sony-semicon.com/) 在 Azure中国(世纪互联) 落地, 解决合规, 云安全，备份, 日志，监控, 云服务缺失等一系列问题.
 - **全球研发**: 主导前端使用Angular重构; 参与后端FastAPI构建微服务系统; 多云解决方案(Azure/阿里云/AWS/私有云); 基于Terraform, Ansible开发IaC工具链.
-- **系统集成**: 主导 [AITRIOS](https://www.aitrios.sony-semicon.com/) 在 Azure中国(世纪互联) 落地, 解决合规, 云安全，云服务缺失等一系列问题.
 - **成本优化**: 设计Django+Celery资源调度系统, 年节省40%云开支, 获2023财年“最佳个人贡献奖”.
 - **项目管理**: 管理项目进度和外包资源, 挖掘中国客户定制化需求.    
 
@@ -173,11 +173,11 @@ icon:jilindaxue **吉林大学** `985` `211` `双一流`
 
 - **背景**: [AITRIOS](https://www.aitrios.sony-semicon.com/) 是 [索尼半导体](https://www.sony-semicon.com/index.html) 构建的新一代革命性产品, 利用 Edge Vision AI, IoT, Cloud 等技术在构建一套以索尼摄像头为核心的革命性的生态系统.
 - **职责**: 作为索尼半导体在中国唯一的Staff Cloud Engineer, 主要从事了如下工作:
+  - **云迁移与运维**: 将 [AITRIOS](https://www.aitrios.sony-semicon.com/) 解决方案从日本引入到中国, 从 Azure全球 迁移 Azure中国(世纪互联), 解决其中的技术, 备案, 合规, 安全, 备份，日志，监控, 开发流程, 服务缺失等各项问题.    
   - **全球开发**
     - 后端最初限定于Azure Cloud解决方案(Azure Function(Python), IoT Hub, Event Hub, CosmosDB, Key Vault...), 与全球团队合作, 将后端整体重构, 引入开源解决方案(Kubernetes(AKS), FastAPI, PostgreSQL, MongoDB, Thingsboard, ...), 进行多云适配(阿里云, 私有云). 
     - 前端最早基于Pro UI构造, 性能和先进性上已远远不能满足需求, 率领中国团队以Angular 16进行重构, 并持续升级到Angular 18. 并使用 Playwright, NodeJS 建立了一套前端页面测试系统.
     - 初期系统部署采用 ARM(Azure Resource Manager) 进行自动化部署, 引入多云战略后, 采用 Python, Ansible, Terraform实现IaC. 
-  - **系统集成**: 将 [AITRIOS](https://www.aitrios.sony-semicon.com/) 解决方案从日本引入到中国, 从 Azure全球 迁移 Azure中国(世纪互联), 解决其中的技术, 备案, 合规, 安全, 服务缺失等各项问题.    
   - **本地研发**
     - 搜集中国客户需求, 转发总部. 并开发PoC系统. 
     - 在Azure中国缺乏Automation组件的情况下, 根据FinOps的基本原则, 使用Django + Celery + Vue 的技术栈, 结合IaC工具, 对云资源进行管理和调度, 为公司节省了 40% 左右的云开销.  

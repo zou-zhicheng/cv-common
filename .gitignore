@@ -1,3 +1,7 @@
 site/
 .DS_Store
 *.pdf
+**/*.docx
+**/*.zip
+word/*
+word/0001.docx

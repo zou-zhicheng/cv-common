@@ -8,11 +8,11 @@ hide:
 
 # [索尼半导体](https://www.sony-semicon.com/cn/index.html)
 
-### 公司与项目介绍
+## 公司与项目介绍
 
 [索尼半导体](https://www.sony-semicon.com/cn/index.html) 是以 成像&感知技术为核心的半导体公司, [AITRIOS](https://www.aitrios.sony-semicon.com/)项目是以硬件为核心, 融合 Edge AI, Edge Computing, IoT, Cloud等技术的一整套端对端创新型解决方案.
 
-### 工作内容
+## 工作内容
 
 - **云迁移与运维**: 
   - 将 [AITRIOS](https://www.aitrios.sony-semicon.com/) 解决方案从日本引入到中国, 从 Azure全球 迁移 Azure中国(世纪互联), 解决其中的技术, 备案, 合规, 安全, 备份，日志，监控, 开发流程, 服务缺失等各项问题.    
@@ -25,13 +25,13 @@ hide:
 - **项目管理**
   - 制定和监督项目进度, 管理外包团队, 制定考核标准, 监督交付效果, 引领技术方向.  
 
-### 工作成就
+## 工作成就
 
 - 将 [AITRIOS](https://www.aitrios.sony-semicon.com/) 项目成功在中国落地.  
 - 将中国团队从运维团队转变成全球开发团队, 承担主力模块的开发. 
 - 每年都获得总部的口头和书面嘉奖.  
 
-### 技术栈
+## 技术栈
 
 - 云: Azure, 阿里云, Docker, Kubernetes, Helm, Operator, nginx-ingress, Istio ...
 - 开发: Python, FastAPI, Django, TypeScript, HTML3, CSS3, Angular, Playwright, Java ...
@@ -42,11 +42,11 @@ hide:
 ---
 
 # [宜信](https://www.creditease.com/)
-### 公司与项目介绍
+## 公司与项目介绍
 
 [宜信](https://www.creditease.com/) 是金融科技的先行者, 作为基础架构部资深员工, 历经基础架构部从0到1的系统演进, 保障业务的稳定运行.
 
-### 工作内容
+## 工作内容
 
 - **私有云平台研发与运维**: 
   - 2017年宜信开始基于OpenStack构建金融云, 并根据企业情况不断进行演进, 历经Docker, Mesos,  最终构建起以 Kubernetes 为基础的企业云平台. 
@@ -61,11 +61,11 @@ hide:
 - **数据库运维系统(DBAnt)**: 基于金融数据的保密性特性, 从0设计开发了这套系统, 主要针对数据增删改查的行为, 设计加密解密系统, 增加权限和审批流程; 管理数据库生命周期; 图形化和自动化数据备份恢复操作; 自动收集分析慢日志数据, 为数据库优化提供支撑......
 - **基础运维**: 例行性基础运维, 例如半自动化的提供一些基础中间件, 构建应用系统环境......
 
-### 工作成就
+## 工作成就
 
 - 通过自研与引入成熟工具, 初步建立了基础架构部的运维体系
 
-### 技术栈
+## 技术栈
 
 - Python, Django, Ansible, Celery, Vue, Echarts, Prometheus, Grafana, ElasticSearch, Java, Spring, Spring Cloud ...
 
@@ -74,12 +74,12 @@ hide:
 
 
 # [奇安信](https://www.qianxin.com/)
-### 工作内容与成就
+## 工作内容与成就
 
 - **[态势感知与安全运营平台(NGSOC)](https://www.qianxin.com/product/detail/pid/358)** 研发
 - 青岛海关**态势感知与安全运营平台**项目经理, 负责定制化开发和实施。
 
-### 技术栈
+## 技术栈
 
 - Python, Django ...
 
@@ -88,7 +88,7 @@ hide:
 
 
 # [IBM](https://www.ibm.com/cn-zh)
-### 工作内容与成就
+## 工作内容与成就
 
 - SCO(Smart Cloud Orchestration)是IBM全球团队研发的基于OpenStack的混合云, 主要负责:   
   - Installation, 使用Ansible, Chef, Bash等工具将SCO中的各个模块整合成产品包, 并进行相关的验证.   
@@ -96,41 +96,41 @@ hide:
   - OpenStack Dashboard 等模块的二次开发.
 - [LinuxONE](https://www.ibm.com/cn-zh/linuxone) - 带领团队在大型机SystemZ上构建基于Linux和OpenStack的软件生态平台.
 
-### 技术栈
+## 技术栈
 
 - Python, Django, Ansible, SaltStack, Java, Spring ......
 
 ---
 
 # [源讯](https://atos.net/en/)
-### 工作内容与成就
+## 工作内容与成就
 
 - 常驻法国Grenoble, 与法国工程师一道, 从事法国电网(ERDF)智能电网项目 [Linky](https://particulier.edf.fr/en/home/contract-and-consumption/meter/linky-meter.html) 的研发工作.
 - 回国后, 与中兴成立合资公司, 进行本地化开发与部署, 推动智能电网项目在南方电网(深圳)的落地.
 
-### 技术栈
+## 技术栈
 
 - Java, Spring, WebLogic, Oracle ... 
 
 ---
 
 # [瞬联](https://www.cienet.com/zh-hans)
-### 工作内容与成就
+## 工作内容与成就
 
 - 参与 Comverse(现[Amdocs]( https://www.amdocs.com/)) 的离岸外包项目Product Catalog的研发工作, 该项目是一款基于Java Swing编写的对电信BOSS项目基础元数据进行管理的工具.
 
-### 技术栈
+## 技术栈
 
 - Java, Swing, Oracle ...
 
 ---
 
 # [大唐电信](https://www.datang.com/)
-### 工作内容与成就
+## 工作内容与成就
 
 - 基于J2EE开发的计费系统和经营分析系统的研发.
 - 作为项目经理, 负责辽宁铁通大BOSS系统的本地化实施.
 
-### 技术栈
+## 技术栈
 
 - Java, JavaEE, Hibernetes, Struts, Oracle ...

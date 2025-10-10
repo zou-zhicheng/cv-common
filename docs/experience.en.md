@@ -6,55 +6,140 @@ hide:
 
 <!-- https://codecv.top/ -->
 
-# [SONY](https://www.sony-semicon.com/en/index.html)
+# [SONY Semiconductor](https://www.sony-semicon.com/en/index.html)
+***Cloud Principle Engineer | Dec 2021 - Dec 2024***  
 
-???+ tip "Cloud Principal Engineer / 2021.12 - 2024.12"
-    1. **[AITRIOS](https://www.aitrios.sony-semicon.com/) implementation in China**: Led the migration to Azure China (21Vianet), resolved compliance and service - missing issues, and integrated hardware (Raspberry Pi/ESP32) with the edge AI system.
-    2. **Technical upgrade**: Refactored the frontend using Angular, introduced a multi-cloud adaptation layer (Alibaba Cloud/private cloud) on the backend, and developed an IaC toolchain (Python + Ansible + Terraform).
-    3. **Cost optimization**: Designed a Django + Celery resource scheduling system, which saved 40% of cloud expenses annually and won the "Best Individual Contribution Award" in the fiscal year 2023.
-    4. **Project management**: Managed project progress, outsourced resources, and identified customized requirements of Chinese customers.
+## Company and Project Introduction
+
+[Sony Semiconductor](https://www.sony-semicon.com/cn/index.html) is a semiconductor company with imaging & sensing technology at its core. The [AITRIOS](https://www.aitrios.sony-semicon.com/) project is an end-to-end innovative solution integrating Edge AI, Edge Computing, IoT, Cloud and other technologies with hardware as the core.
+
+## Job Responsibilities
+
+- **Cloud Migration and Operations**:
+  - Introduced the [AITRIOS](https://www.aitrios.sony-semicon.com/) solution from Japan to China, migrated from Azure Global to Azure China (21Vianet), and resolved various issues including technical problems, filing, compliance, security, backup, logging, monitoring, development processes, and service gaps.
+- **Global Development**
+  - Initially, the backend was limited to Azure Cloud solutions (Azure Function (Python), IoT Hub, Event Hub, CosmosDB, Key Vault...). Collaborated with global teams to fully reconstruct the backend, introduced open-source solutions (Kubernetes (AKS), FastAPI, PostgreSQL, MongoDB, Thingsboard, ...). Finally achieved multi-cloud adaptation (Azure/AWS/Alibaba Cloud/private cloud).
+  - The frontend, originally built on Pro UI, could no longer meet requirements in terms of performance and advancement. Led the Chinese team to reconstruct it using Angular 16 and continuously upgraded to Angular 18. Also established a frontend page testing system using Playwright and NodeJS.
+  - Initially, system deployment adopted ARM (Azure Resource Manager) for automated deployment. After introducing the multi-cloud strategy, implemented IaC using Terraform, Ansible, and Python.
+- **Local R&D**
+  - Collected Chinese customer requirements, forwarded them to headquarters, and developed PoC systems.
+- **Project Management**
+  - Formulated and monitored project progress, managed outsourcing teams, established assessment criteria, supervised delivery results, and guided technical directions.
+
+## Achievements
+
+- Successfully launched the [AITRIOS](https://www.aitrios.sony-semicon.com/) project in China.
+- Transformed the Chinese team from an operations team into a global development team, undertaking the development of core modules.
+- Received verbal and written recognition from headquarters every year.
+
+## Tech Stack
+
+- Cloud: Azure, Alibaba Cloud, Docker, Kubernetes, Helm, Operator, nginx-ingress, Istio ...
+- Development: Python, FastAPI, Django, TypeScript, HTML3, CSS3, Angular, Playwright, Java ...
+- IaC: ARM, Ansible, Terraform ...
+- IoT: Azure IoT Hub, ThingsBoard, NodeRed ...
+- Databases: SQL Server, MySQL, PostgreSQL, CosmosDB, MongoDB, Kafka, Cassandra...
 
 ---
 
 # [CreditEase](https://www.creditease.com/)
-???+ tip "Architect / 2017.01 - 2021.12"
-    1. **Construction of the operation and maintenance system**: Designed the CMDB, network-wide monitoring, and database management platform from scratch to support the operation and maintenance of over 2000 nodes.
-    2. **K8S PaaS platform**: Participated in the development and operation of a Kubernetes based PaaS platform and various middleware.
-    3. **Innovative solution**: Implemented national workplace network monitoring using Raspberry Pi terminals, and won an internal innovation award for commercialization exploration.
+***Infrastructure Architect | Jan 2017 - Dec 2021***  
+
+## Company and Project Introduction
+
+[CreditEase](https://www.creditease.com/) is a pioneer in fintech. As a senior staff of the Infrastructure Department, I experienced the system evolution of the department from scratch and ensured the stable operation of business.
+
+## Job Responsibilities
+
+- **Private Cloud Platform R&D and Operations**:
+  - In 2017, CreditEase began building a financial cloud based on OpenStack, and continuously evolved it according to enterprise conditions, eventually establishing a Kubernetes-based enterprise cloud platform after going through Docker and Mesos.
+  - Cooperated with business systems to microservitize related businesses, enabling systems to run on K8S.
+  - Cooperated with business systems to migrate businesses from public cloud to private K8S platform.
+- **Observability System**
+  - Unified logging system
+  - Network-wide monitoring system, initially based on Zabbix, later centered on Prometheus/ElasticSearch/Grafana.
+  - Workplace monitoring and "Yixin Test": CreditEase had over 1000 workplaces nationwide. Maintaining workplace network stability and troubleshooting required a lot of manpower. We innovatively deployed Raspberry Pi terminals in workplaces to quickly locate and troubleshoot workplace network issues, effectively monitoring workplace networks and ensuring service operation. On this basis, combined with deploying nodes in major cloud service providers, we realized the "Yixin Test" function similar to [Tingyun](https://www.tingyun.com/), and carried out some commercial development.
+  - Distributed tracing: Conducted small-scale attempts on distributed tracing technology using tools like SkyWalking and OpenTelemetry.
+- **CMDB System**: Designed and developed CMDB from scratch, realizing effective management of the lifecycle of infrastructure.
+- **Database Operation and Maintenance System (DBAnt)**: Based on the confidentiality characteristics of financial data, designed and developed this system from scratch, mainly focusing on data CRUD behaviors, designing encryption and decryption systems, adding permission and approval processes; managing database lifecycle; graphical and automated data backup and recovery operations; automatically collecting and analyzing slow log data to support database optimization...
+- **Basic Operations**: Routine basic operations, such as semi-automatically providing some basic middleware and building application system environments...
+
+## Achievements
+
+- Initially established the operation system of the Infrastructure Department through self-research and introduction of mature tools.
+
+## Tech Stack
+
+- Python, Django, Ansible, Celery, Vue, Echarts, Prometheus, Grafana, ElasticSearch, Java, Spring, Spring Cloud ...
 
 ---
 
-# [360](https://www.qianxin.com/)
-???+ tip "project manager / 2016.08 - 2016.12"
-    1. **[Next Generation Security Operation Center(NGSOC)](https://www.qianxin.com/product/detail/pid/358)**: Joined the team as a developer, was promptly promoted to project manager responsible for leading the customized development and implementation of the "NGSOC" for Qingdao Customs.
+# [QAX](https://www.qianxin.com/)
+***R&D Engineer | Aug 2016 - Dec 2016***  
+
+## Job Responsibilities and Achievements
+
+- R&D of [Situation Awareness and Security Operations Platform (NGSOC)](https://www.qianxin.com/product/detail/pid/358)
+- Project manager of the Situation Awareness and Security Operations Platform for Qingdao Customs, responsible for customized development and implementation.
+
+## Tech Stack
+
+- Python, Django ...
 
 ---
 
 # [IBM](https://www.ibm.com/us-en)
-???+ tip "Cloud Application Developer / 2013.11 - 2016.7"
-    1. SCO (Smart Cloud Orchestration) is a hybrid cloud developed by IBM's global team based on OpenStack. Main responsibilities included:
-        - Installation: Used tools such as Ansible, Chef, and Shell to integrate various modules of SCO into product packages and conduct relevant verifications.
-        - Integration: Integrated OpenStack source code, secondary - developed code, IBM internal software such as ZVM, DB2, WebSphere, and external software such as Vmware.
-        - Marginal development work on basic components such as Dashboard and Nova.
-    2. [LinuxONE](https://www.ibm.com/us-en/linuxone) - Led the team to build a software ecosystem platform based on Linux and OpenStack on System Z.
+***Application Developer | Nov 2013 - Jul 2016***  
 
+## Job Responsibilities and Achievements
+
+- SCO (Smart Cloud Orchestration) is a hybrid cloud based on OpenStack developed by IBM's global team. Main responsibilities:
+  - Installation: Using tools like Ansible, Chef, Bash to integrate various modules in SCO into product packages and conduct related verification.
+  - Integration: Integrating OpenStack source code, secondary development code, IBM internal software such as ZVM, DB2, WebSphere, and external software such as Vmware.
+  - Secondary development of modules like OpenStack Dashboard.
+- [LinuxONE](https://www.ibm.com/cn-zh/linuxone) - Led the team to build a Linux and OpenStack-based software ecosystem platform on the mainframe SystemZ.
+
+## Tech Stack
+
+- Python, Django, Ansible, SaltStack, Java, Spring ......
 ---
 
 # [ATOS](https://atos.net/en/)
-???+ tip "Senior Application Developer / 2010.08 - 2013.10"
-    1. Stayed in Grenoble, France, and worked with French colleagues on development of the [Linky](https://particulier.edf.fr/en/home/contract-and-consumption/meter/linky-meter.html) smart grid project for ERDF(Electricité Réseau Distribution France).
-    2. After returning to China, established a joint-venture company with ZTE for local development and deployment, and promoted the implementation of the smart grid project in the Southern Power Grid (Shenzhen).
+***Application Developer | Aug 2010 - Oct 2013***  
+
+## Job Responsibilities and Achievements
+
+- Resident in Grenoble, France, worked with French engineers on the R&D of the [Linky](https://particulier.edf.fr/en/home/contract-and-consumption/meter/linky-meter.html) smart grid project for ERDF (French Electricity Distribution Network).
+- After returning to China, established a joint venture with ZTE to carry out localized development and deployment, promoting the implementation of the smart grid project in China Southern Power Grid (Shenzhen).
+
+## Tech Stack
+
+- Java, JavaEE, WebLogic, Oracle ...
 
 ---
 
 # [CIeNT](https://www.cienet.com/)
-???+ tip "Java Developer / 2007.12 - 2010.07"
-    Participated in the research and development of the Product Catalog, an offshore outsourcing project of Comverse (now [Amdocs](https://www.amdocs.com/)). This project is a tool based on Java Swing for managing the basic metadata of the telecommunications BOSS system.
+***Java Developer | Dec 2007 - Jul 2010***  
+
+## Job Responsibilities and Achievements
+
+- Participated in the R&D of the offshore outsourcing project "Product Catalog" for Comverse (now [Amdocs]( https://www.amdocs.com/)), which is a tool based on Java Swing for managing basic metadata of telecom BOSS projects.
+
+## Tech Stack
+- Java, Swing, Oracle ...
 
 ---
 
 # [Datang](https://www.datang.com/)
-???+ tip "Project Manager / 2005.02 - 2007.12"
-    1. Initially, conducted research and development on billing systems and business analysis systems based on J2EE.
-    2. Later, as a project manager, was responsible for the local implementation of the large-scale BOSS system for Liaoning Tietong.
-    3. Performed some pre-sales work.
+***Java Developer | Feb 2005 - Dec 2007***  
+
+## Job Responsibilities and Achievements
+
+- R&D of billing systems and business analysis systems based on J2EE.
+- Served as project manager, responsible for the localized implementation of Liaoning TieTong's large BOSS system.
+
+## Tech Stack
+
+- Java, JavaEE, Hibernates, Struts, Oracle ...
+
+---

@@ -1,40 +1,44 @@
 # Basic Information
-- Name: Zou Zhicheng
-- Gender: Male
-- Year of Birth: 1983
-- Education: Bachelor's degree, School of Computer Science and Technology, Jilin University (2001 - 2005)
+- James ZOU / Male / 1983
+- Jilin University /  Computer Science and Technology / Bachelor / 2001 - 2005
 - Work Experience: 20 years
 - Github: [https://github.com/zou-zhicheng](https://github.com/zou-zhicheng)
 - Linkedin: [https://www.linkedin.com/in/zouzhicheng/](https://www.linkedin.com/in/zouzhicheng/)
-- Desired Positions: Architect, Technical Leader, Senior Development Engineer
-- Desired Salary: Pre-tax monthly salary of 40K+, exceptions can be made for companies I particularly like
-- Desired Location: Beijing, Remote
+- Desired Positions: Architect, Technical Lead, R&D Engineer, Operations Engineer, Pre-sales Engineer ...
 
 ---
 
 # Key Strengths
-### **Cloud Computing and Architecture Design**
-- **Cloud Certifications**: Azure (AZ104/AZ204/AZ305/AZ400), Alibaba Cloud ACP Container Certification.
-- **Technical Skills**: Full-stack implementation experience in Azure and Alibaba Cloud. Proficient in OpenStack, K8S, microservice architecture design and operation.
-- **Architecture Experience**: Led the integration and optimization of multi-cloud environments (Azure China, Alibaba Cloud, private cloud), resulting in a 40% reduction in cloud resource costs.
+## Cloud and SRE Expert
 
-### **Full-stack Development and DevOps**
-- **Programming Languages and Frameworks**: Python (Django/FastAPI), Java (Spring), Go.
+- Proficient in Azure Cloud, holding Azure Architect certifications (AZ104/AZ204/AZ305/AZ400)
+- Proficient in Alibaba Cloud, holding Alibaba Cloud ACP Container Certification
+- Familiar with AWS, Docker, Kubernetes, OpenStack and other cloud solutions
+- Skilled in using Terraform, Ansible for Infrastructure as Code (IaC) implementation
+- Possess practical experience and understanding in cloud migration, cloud exit, cloud-native technologies, and microservices
+- Rich experience in building systems such as CMDB, observability (logs, metrics, traces), databases, and DevOps
+- Have a certain level of understanding and practical experience in computer operating system principles, Linux, and computer networks
+
+## Full-Stack Engineer
+
+- **Python Expert**: Over 10 years of Python R&D experience, familiar with frameworks like Django, FastAPI, and Celery.
+- **Java Development**: Familiar with Java, Spring Boot, Spring Cloud, and JVM.
 - **Web Development**: Familiar with HTML, CSS, JavaScript, TypeScript, NodeJS, Angular, Vue development and their ecosystems.
-- **Toolchains**: Implemented Infrastructure as Code (IaC) with Ansible/Terraform, and built monitoring systems with Prometheus/ELK/Grafana.
+- **Databases**: Skilled in MySQL database operation, maintenance, and optimization; proficient in PostgreSQL, Redis, MongoDB, ElasticSearch and other data solutions.
+- Solid foundation in data structures and algorithms;
 
-### **Project Management and Team Collaboration**
-- Over 10 years of cross-team management experience, leading architecture design, development, operation, and commercialization from scratch.
-- Able to coordinate global teams to complete core module development, manage outsourcing resources, and improve delivery quality.
-- Have certain pre-sales and after-sales support experience.
+## Project Management
+
+- Over 10 years of cross-border team management experience
 
 ---
 
 # Site Navigation
-- [Work Experience](./experience.md)
-- [Project Experience](./projects.md)
-- [Professional Skills](./skills.md)
-- [Certificates and Awards](./certificates.md)
+## [Work Experience](./experience.md)
+## [Project Experience](./projects.md)
+## [Professional Skills](./skills.md)
+## [Certificates and Awards](./certificates.md)
+## [个人近况](./pictures.md)
 <!-- - [Interests & Hobbies](./interests.md) -->
 <!-- - [Resume Download](./download.md) -->
 

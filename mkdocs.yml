@@ -100,6 +100,16 @@ markdown_extensions:
 
 plugins:
   - search
+  - i18n:
+      docs_structure: suffix
+      languages:
+        - locale: en
+          name: English
+          build: true
+        - locale: zh
+          default: true
+          name: 中文
+          build: true
   # - tags
 #   - social:
 #       cards_color:

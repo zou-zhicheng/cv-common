@@ -44,7 +44,7 @@ hide:
 <!-- ## [项目经验](./projects.md) -->
 ## [职业技能](./skills.md)
 ## [证书奖励](./certificates.md)
-## [个人近况](./pictures.md)
+## [个人影像](./pictures.md)
 <!-- - [兴趣爱好](./interests.md) -->
 <!-- - [简历下载](./download.md) -->
 

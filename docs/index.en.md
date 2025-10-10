@@ -38,7 +38,7 @@
 ## [Project Experience](./projects.md)
 ## [Professional Skills](./skills.md)
 ## [Certificates and Awards](./certificates.md)
-## [个人近况](./pictures.md)
+## [Personal Pictures](./pictures.md)
 <!-- - [Interests & Hobbies](./interests.md) -->
 <!-- - [Resume Download](./download.md) -->
 

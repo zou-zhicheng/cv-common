@@ -10,35 +10,41 @@ hide:
  - 工作年限：20年
  - Github：[https://github.com/zou-zhicheng](https://github.com/zou-zhicheng)
  - Linkedin: [https://www.linkedin.com/in/zouzhicheng/](https://www.linkedin.com/in/zouzhicheng/)
- - 期望职位：架构师 技术负责人 高级开发工程师
- - 期望薪资：税前月薪40K+，特别喜欢的公司可例外
- - 期望城市：北京, 远程
+ - 期望职位：架构师 技术负责人 研发工程师 运维工程师 售前工程师
 
 --- 
 
 # 优势亮点
-### **云计算与架构设计**
-- 云专家认证：Azure（AZ104/AZ204/AZ305/AZ400）、阿里云ACP容器认证、了解AWS。
-- 技术能力：Azure/阿里云全栈落地经验，精通OpenStack、K8S、微服务架构设计与运维。
-- 架构经验：主导多云（Azure中国、阿里云、私有云）集成与优化，节省40%云资源成本。
+## 云计算与运维专家
 
-### **全栈开发**
-- 语言与框架：Python（Django/FastAPI）、Java（Spring）、Go、HTML5、CSS3、JavaScript、TypeScript、Angular、Vue。
-- Web开发, 熟悉HTML, CSS, JavaScript, TypeScript, NodeJS, Angular, Vue开发及其生态.
-- 工具链：Ansible/Terraform实现IaC，Prometheus/ELK/Grafana等构建监控体系。
+- 精通Azure云, 拥有Azure架构师认证(AZ104/AZ204/AZ305/AZ400)
+- 精通阿里云, 拥有阿里云ACP容器认证
+- 熟悉AWS, Docker, Kubernetes, OpenStack 等云解决方案
+- 熟练使用Terraform, Ansible等构建IaC
+- 对上云, 下云, 云原生, 微服务有一定的理解和实践经验
+- 对 SRE, CMDB, 可观测性(日志, 指标, 链路), 数据库, DevOps等体系建设具有较丰富的经验.
+- 对计算机操作系统原理, Linux, 计算机网络等有一定程度的理解与实践. 
 
-### **项目管理与团队协作**
-- 10年+跨团队管理经验，主导从0到1的架构设计、开发、运维及商业化落地。
-- 能够协调全球团队完成核心模块开发，管理外包资源并提升交付质量。
-- 具备一定的售前与售后支持经验。
+## 全栈工程师
+
+- **Python专家**：10年以上Python研发经验,熟悉Django, FastAPI, Celery等框架.
+- **Java开发**: 熟悉Java, Spring Boot, Spring Cloud, JVM.
+- **Web开发**: 熟悉HTML, CSS, JavaScript, TypeScript, NodeJS, Angular, Vue开发及其生态.
+- **数据库**: 熟悉MySQL数据库运维与调优, 熟练掌握PostgreSQL, Redis, MongoDB, ElasticSearch 等数据解决方案. 
+- 良好的数据结构和算法基础； 
+
+## 项目管理
+
+- 10年+跨国团队管理经验
 
 --- 
 
 # 站点导航
-- [工作经历](./experience.md)
-- [项目经验](./projects.md)
-- [职业技能](./skills.md)
-- [证书奖励](./certificates.md)
+## [工作经历](./experience.md)
+<!-- ## [项目经验](./projects.md) -->
+## [职业技能](./skills.md)
+## [证书奖励](./certificates.md)
+## [个人近况](./pictures.md)
 <!-- - [兴趣爱好](./interests.md) -->
 <!-- - [简历下载](./download.md) -->
 

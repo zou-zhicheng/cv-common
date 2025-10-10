@@ -1,16 +1,15 @@
-site_name: 邹志成的简历
-site_url: https://zou-zhicheng.github.io/cv-common/
-repo_url: https://github.com/zou-zhicheng/cv-common
-site_description: 邹志成的简历,使用 MkDocs 创建
-site_author: 邹志成
+site_name: CV of James ZOU
+site_url: https://zou-zhicheng.github.io/cv-common-en/
+# repo_url: https://github.com/zou-zhicheng/cv-common
+site_description: Common CV of James ZOU, Created by Mkdocs
+site_author: James ZOU
 nav:
-  - 主页: index.md
-  - 工作经历: experience.md
-  # - 项目经验: projects.md
-  - 证书奖励: certificates.md
-  - 职业技能: skills.md
-  - 个人影像: pictures.md
-  # - 兴趣爱好: interests.md
+  - Home: index.md
+  - Work Experience: experience.md
+  - Project Portfolio: projects.md
+  - Skills & Tech-stack: skills.md
+  - Certificate & Awards: certificates.md
+  # - Interests & Hobbies: interests.md
   # - 简历下载: download.md
 theme:
   name: mkdocs
@@ -67,7 +66,7 @@ extra:
     - icon: fontawesome/solid/paper-plane
       link: mailto:<zouzhicheng@foxmail.com>
 
-copyright: Copyright &copy; 2025 &nbsp;邹志成(James ZOU)
+copyright: Copyright &copy; 2025 &nbsp;James ZOU
 
 markdown_extensions:
   - tables
@@ -100,30 +99,7 @@ markdown_extensions:
 
 plugins:
   - search
-  - i18n:
-      docs_structure: suffix
-      languages:
-        - locale: zh
-          default: true
-          name: 中文
-          build: true
-        - locale: en
-          name: English
-          build: true
-          site_name: "CV of James ZOU"
-          site_url: https://zou-zhicheng.github.io/cv-common/en
-          site_description: CV of James ZOU which created by MkDocs
-          site_author: James ZOU
-          nav_translations:
-            主页: Home
-            工作经历: Work Experience
-            # 项目经验: Project Portfolio
-            证书奖励: Certificate & Awards
-            职业技能: Skills & Tech-stack
-            个人影像: Personal Pictures
-            # 兴趣爱好: Interests & Hobbies
-            # 简历下载: Download
-  # - tags
+  - tags
 #   - social:
 #       cards_color:
 #         fill: "#0FF1CE"
